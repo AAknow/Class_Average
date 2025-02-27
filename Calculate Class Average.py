@@ -1,6 +1,3 @@
-## CST-16163 Intro to Computer Programming
-## By: Aaron Knowles
-
 ## Initialize variables
 classGrades = [87, 74, 39, 93, 82, 68]
 studentTotal = 0
